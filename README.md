@@ -5,4 +5,4 @@ Learning html by doing
 ##Examples
 
 1. [First HTML](first-html)
-2. [Unordered List](unordered-list)
+1. [Unordered List](unordered-list)
